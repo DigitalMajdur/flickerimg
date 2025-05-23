@@ -1,7 +1,7 @@
-tensorflow==2.15.1
-keras==2.15.0
+tensorflow-cpu==2.13.1
+keras==2.13.1
 pillow>=10.0.0
-numpy>=1.24.0,<2.0.0
+numpy>=1.24.0,<1.26.0
 matplotlib>=3.7.0
 tqdm>=4.65.0
 nltk>=3.8.0
